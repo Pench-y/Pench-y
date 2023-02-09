@@ -1,11 +1,16 @@
-<div class='container-img'>
+<div id="container-img" align="center">
   <center><img src="https://user-images.githubusercontent.com/77253206/217863586-753bf3d7-cf9d-4693-b7bc-afea4e981c81.gif" width="50" height="50" /></center>
 </div>
-<p>👋 Hi, I'm Nico a junior developer <br>
-with +2 years learning about all this <br>
-I like to work in backend and I'm <br> versatile with DB :D✨</p>
-<img src="https://user-images.githubusercontent.com/77253206/217952071-921e8be0-72c4-4cf1-861f-5a70f09e4120.gif" width="250" height="150"/>
 
+<div id="container-p" align="center">
+ <p>👋 Hi, I'm Nico a junior developer <br>
+  with +2 years learning about all this <br>
+  I like to work in backend and I'm <br> versatile with DB :D✨</p>
+</diV>
+
+<div  id="container-gif2" align="center">
+  <img src="https://user-images.githubusercontent.com/77253206/217952071-921e8be0-72c4-4cf1-861f-5a70f09e4120.gif" width="250" height="150"/>
+</div>
 
 
 <!--Here are some ideas to get you started:
