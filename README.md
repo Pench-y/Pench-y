@@ -1,13 +1,5 @@
-### Hi, I'm Nico <img src="https://user-images.githubusercontent.com/77253206/217863586-753bf3d7-cf9d-4693-b7bc-afea4e981c81.gif" width="50" height="50" />
-
-
-
-
-<p>👋 Hi! I design for Optimism.
-Before that, I designed at GitHub for 6+ years!</p>
-
-I think GitHub is so cool and still use it :D
-Today, I'm still learning to make things ✨
+<img src="https://user-images.githubusercontent.com/77253206/217863586-753bf3d7-cf9d-4693-b7bc-afea4e981c81.gif" width="50" height="50" />
+<p>👋 Hi, I'm Nico</p>
 
 
 
