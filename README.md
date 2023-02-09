@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/77253206/217863586-753bf3d7-cf9d-4693-b7bc-afea4e981c81.gif" width="50" height="50" />
+<div class='container-img'>
+  <center><img src="https://user-images.githubusercontent.com/77253206/217863586-753bf3d7-cf9d-4693-b7bc-afea4e981c81.gif" width="50" height="50" /></center>
+</div>
 <p>👋 Hi, I'm Nico a junior developer <br>
 with +2 years learning about all this <br>
 I like to work in backend and I'm <br> versatile with DB :D :✨</p>
