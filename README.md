@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hi, I'm Nico ^_^
 
-<!--
-**Pench-y/Pench-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<p>👋 Hi! I design for Optimism.
+Before that, I designed at GitHub for 6+ years!</p>
+
+I think GitHub is so cool and still use it :D
+Today, I'm still learning to make things ✨
+
+
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
