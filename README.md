@@ -1,4 +1,5 @@
-### Hi, I'm Nico ^_^
+### Hi, I'm Nico <img src="https://user-images.githubusercontent.com/77253206/217863586-753bf3d7-cf9d-4693-b7bc-afea4e981c81.gif" width="50" height="50" />
+
 
 
 
