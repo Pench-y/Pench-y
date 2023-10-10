@@ -19,7 +19,7 @@
 <div id="container-p" align="center">
  <p>
    <samp>
-    :mailbox: Contact me :point_right: nicolas@penchy.lat</a>
+    :mailbox: Contact me :point_right: freelancepenchy@gmail.com</a>
    </samp>
   </p>
 </diV>
