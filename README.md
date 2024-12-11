@@ -5,8 +5,8 @@
 <div id="container-p" align="center">
  <p>
    <samp>
-    :wave: Hi, I'm Nico a junior developer <br>
-     with +2 years learning about all this <br>
+    :wave: Hi, I'm Nico a integration analyst <br>
+     with +2 years of experienc about all this <br>
      I like to work in backend and I'm <br> versatile with DB :D✨
    </samp>
   </p>
