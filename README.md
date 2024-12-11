@@ -7,7 +7,7 @@
    <samp>
     :wave: Hi, I'm Nico a integration analyst <br>
      with +2 years of experience about all this <br>
-     I like to work in backend and I'm <br> versatile with DB :D✨
+     I like working in backend and I'm <br> versatile with DB :D✨
    </samp>
   </p>
 </diV>
