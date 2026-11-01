@@ -7,8 +7,8 @@
    <samp>
     :wave: Hi, I'm Nico a integration analyst <br>
      with +3 years of experience about all this <br>
-     I like working in backend and I'm <br> versatile with DB.
-     Plus now I'm good at integrations. Especially WSO2 ✨
+     I like working in backend and I'm <br> versatile with DB. <br>
+     Plus now I'm good at integrations.✨
    </samp>
   </p>
 </diV>
